@@ -7,7 +7,7 @@ void main(List<String> args) {
   } else {
     print('Different');
   }
-  //postfix,prfefix
+  //postfix,prefix
   int number = 10;
   number++;
   ++number;
