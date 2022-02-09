@@ -5,7 +5,7 @@ void main(List<String> args) {
   //sayac 10 artsın
   //ekrana göster
 
-  print('merhaba' + '${23}');
+  print('merhaba' + '${23}' + 'beyza');
 
   String userName = 'Beyza ';
   int stokMiktar = 43;
