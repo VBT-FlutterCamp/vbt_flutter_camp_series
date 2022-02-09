@@ -1,5 +1,4 @@
-//map
-
+//Map
 void main() {
   Map<String, int> users = {'ahmet': 20, 'beyza': 22};
   print('Ahmetin yasi ${users['ahmet']}');
